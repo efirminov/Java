@@ -22,7 +22,7 @@ Neste curso você aprenderá Java do absoluto zero até se tornar um programador
 
 Fundamentos | Java
 --------- | ------
-Seção 1: Introdução | andamento
-Seção 2: Configuração do Ambiente | 
-Seção 3: Fundamentos | 
+Seção 1: Introdução | concluído
+Seção 2: Configuração do Ambiente | concluído
+Seção 3: Fundamentos | andamento
 Seção 4: Estruturas de Controle | 
