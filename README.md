@@ -24,5 +24,12 @@ Fundamentos | Java
 --------- | ------
 Seção 1: Introdução | concluído
 Seção 2: Configuração do Ambiente | concluído
-Seção 3: Fundamentos | andamento
-Seção 4: Estruturas de Controle | 
+Seção 3: Fundamentos | concluído
+Seção 4: Estruturas de Controle | andamento
+Seção 5: Classes e Métodos | 
+Seção 6: Arrays e Collections | 
+Seção 7: Orientação a Objetos | 
+Seção 8: Lambdas | 
+Seção 9: Stream API | 
+Seção 10: Tratamento de Erros | 
+Seção 11: Projeto - Campo Minado (+JUnit 5) | 
