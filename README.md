@@ -26,8 +26,8 @@ Seção 1: Introdução | concluído
 Seção 2: Configuração do Ambiente | concluído
 Seção 3: Fundamentos | concluído
 Seção 4: Estruturas de Controle | concluído
-Seção 5: Classes e Métodos | andamento
-Seção 6: Arrays e Collections | 
+Seção 5: Classes e Métodos | concluído
+Seção 6: Arrays e Collections | andamento
 Seção 7: Orientação a Objetos | 
 Seção 8: Lambdas | 
 Seção 9: Stream API | 
