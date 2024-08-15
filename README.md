@@ -27,9 +27,13 @@ Seção 2: Configuração do Ambiente | concluído
 Seção 3: Fundamentos | concluído
 Seção 4: Estruturas de Controle | concluído
 Seção 5: Classes e Métodos | concluído
-Seção 6: Arrays e Collections | andamento
-Seção 7: Orientação a Objetos | 
+Seção 6: Arrays e Collections | concluído
+Seção 7: Orientação a Objetos | andamento
 Seção 8: Lambdas | 
 Seção 9: Stream API | 
 Seção 10: Tratamento de Erros | 
 Seção 11: Projeto - Campo Minado (+JUnit 5) | 
+Seção 12: Generics | 
+Seção 13: Java Desktop com Swing | 
+Seção 14: Banco de Dados Relacional | 
+Seção 15: Banco de Dados com JDBC | 
