@@ -28,8 +28,8 @@ Seção 3: Fundamentos | concluído
 Seção 4: Estruturas de Controle | concluído
 Seção 5: Classes e Métodos | concluído
 Seção 6: Arrays e Collections | concluído
-Seção 7: Orientação a Objetos | andamento
-Seção 8: Lambdas | 
+Seção 7: Orientação a Objetos | concluído
+Seção 8: Lambdas | andamento
 Seção 9: Stream API | 
 Seção 10: Tratamento de Erros | 
 Seção 11: Projeto - Campo Minado (+JUnit 5) | 
