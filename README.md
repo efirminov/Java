@@ -29,9 +29,9 @@ Seção 4: Estruturas de Controle | concluído
 Seção 5: Classes e Métodos | concluído
 Seção 6: Arrays e Collections | concluído
 Seção 7: Orientação a Objetos | concluído
-Seção 8: Lambdas | andamento
-Seção 9: Stream API | 
-Seção 10: Tratamento de Erros | 
+Seção 8: Lambdas | concluído
+Seção 9: Stream API | concluído
+Seção 10: Tratamento de Erros | andamento
 Seção 11: Projeto - Campo Minado (+JUnit 5) | 
 Seção 12: Generics | 
 Seção 13: Java Desktop com Swing | 
