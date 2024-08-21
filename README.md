@@ -33,7 +33,7 @@ Seção 8: Lambdas | concluído
 Seção 9: Stream API | concluído
 Seção 10: Tratamento de Erros | concluído
 Seção 11: Projeto - Campo Minado (+JUnit 5) | concluído
-Seção 12: Generics | andamento
-Seção 13: Java Desktop com Swing | 
-Seção 14: Banco de Dados Relacional | 
+Seção 12: Generics | concluído
+Seção 13: Java Desktop com Swing | concluído
+Seção 14: Banco de Dados Relacional | andamento
 Seção 15: Banco de Dados com JDBC | 
