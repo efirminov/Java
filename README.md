@@ -31,9 +31,9 @@ Seção 6: Arrays e Collections | concluído
 Seção 7: Orientação a Objetos | concluído
 Seção 8: Lambdas | concluído
 Seção 9: Stream API | concluído
-Seção 10: Tratamento de Erros | andamento
-Seção 11: Projeto - Campo Minado (+JUnit 5) | 
-Seção 12: Generics | 
+Seção 10: Tratamento de Erros | concluído
+Seção 11: Projeto - Campo Minado (+JUnit 5) | concluído
+Seção 12: Generics | andamento
 Seção 13: Java Desktop com Swing | 
 Seção 14: Banco de Dados Relacional | 
 Seção 15: Banco de Dados com JDBC | 
