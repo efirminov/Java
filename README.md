@@ -35,5 +35,19 @@ Seção 10: Tratamento de Erros | concluído
 Seção 11: Projeto - Campo Minado (+JUnit 5) | concluído
 Seção 12: Generics | concluído
 Seção 13: Java Desktop com Swing | concluído
-Seção 14: Banco de Dados Relacional | andamento
-Seção 15: Banco de Dados com JDBC | 
+Seção 14: Banco de Dados Relacional | concluído
+Seção 15: Banco de Dados com JDBC | andamento
+Seção 16: Java Persistence API (JPA) | 
+Seção 17: Modularidade em Java | 
+Seção 18: JavaFX | 
+Seção 19: Conceitos sobre Web | 
+Seção 20: Spring Boot | 
+Seção 21: Banco de Dados Não Relacional (NoSQL) | 
+Seção 22: Conclusão | 
+| 
+| 
+| 
+| 
+| 
+| 
+|  
