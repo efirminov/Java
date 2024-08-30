@@ -36,8 +36,8 @@ Seção 11: Projeto - Campo Minado (+JUnit 5) | concluído
 Seção 12: Generics | concluído
 Seção 13: Java Desktop com Swing | concluído
 Seção 14: Banco de Dados Relacional | concluído
-Seção 15: Banco de Dados com JDBC | andamento
-Seção 16: Java Persistence API (JPA) | 
+Seção 15: Banco de Dados com JDBC | concluído
+Seção 16: Java Persistence API (JPA) | andamento
 Seção 17: Modularidade em Java | 
 Seção 18: JavaFX | 
 Seção 19: Conceitos sobre Web | 
