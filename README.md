@@ -37,17 +37,21 @@ Seção 12: Generics | concluído
 Seção 13: Java Desktop com Swing | concluído
 Seção 14: Banco de Dados Relacional | concluído
 Seção 15: Banco de Dados com JDBC | concluído
-Seção 16: Java Persistence API (JPA) | andamento
-Seção 17: Modularidade em Java | 
-Seção 18: JavaFX | 
-Seção 19: Conceitos sobre Web | 
-Seção 20: Spring Boot | 
-Seção 21: Banco de Dados Não Relacional (NoSQL) | 
-Seção 22: Conclusão | 
-| 
-| 
-| 
-| 
-| 
-| 
-|  
+Seção 16: Java Persistence API (JPA) | concluído
+Seção 17: Modularidade em Java | concluído
+Seção 18: JavaFX | concluído
+Seção 19: Conceitos sobre Web | concluído
+Seção 20: Spring Boot | concluído
+Seção 21: Banco de Dados Não Relacional (NoSQL) | concluído
+Seção 22: Conclusão | concluído
+Seção 23: Introdução [Versão Original] | concluído
+Seção 24: Ambiente [Versão Original] | concluído
+Seção 25: Conceitos Básicos [Versão Original] | concluído
+Seção 26: Estruturas de Controle [Versão Original] | concluído
+Seção 27: Classes e Métodos  [Versão Original] | concluído
+Seção 28: Arrays e Coleções  [Versão Original]| concluído
+Seção 29: Orientação a Objetos [Versão Original] |  concluído
+Seção 29: Orientação a Objetos [Versão Original] |  concluído
+Seção 30: API [Versão Original] |  concluído
+Seção 31: Tópicos Avançados [Versão Original] |  concluído
+Seção 32: Conclusão [Versão Original] |  concluído
